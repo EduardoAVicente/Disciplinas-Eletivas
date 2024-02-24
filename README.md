@@ -1,6 +1,6 @@
 # Disciplinas Eletivas
 
-Alunos:
+Grupo I:
 
 Eduardo Antunes Vicente RA: 22.121.010-7
 
