@@ -2,7 +2,7 @@
 
 Grupo I:
 
-Eduardo Antunes Vicente RA: 22.121.010-7
+[Eduardo Antunes Vicente RA: 22.121.010-7](https://github.com/EduardoAVicente)
 
 Ana Jéssica Soares da Silva RA: 22.121.100-6
 
