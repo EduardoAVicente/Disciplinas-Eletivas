@@ -1,8 +1,5 @@
 # Disciplinas Eletivas
 
-CC7540 Grupo 3:
-
-CC7532 Grupo I:
 
 [Eduardo Antunes Vicente RA: 22.121.010-7](https://github.com/EduardoAVicente)
 
