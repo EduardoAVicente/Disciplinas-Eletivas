@@ -15,6 +15,6 @@ CC7532 Grupo I:
 
 [1. Definição de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Defini%C3%A7%C3%A3o-de-Projeto)
 
-[2. Fase de Iniciação de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto)
+# [2. Fase de Iniciação de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto) (LIDER)
 
 [3. Modelagem](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem)
