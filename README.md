@@ -8,13 +8,13 @@ CC7532 Grupo I:
 
 [Ana Jéssica Soares da Silva RA: 22.121.100-6](https://github.com/AnaJessicaSS)
 
-[Felipe de Campos Oka RA: 22.121.001-6](https://github.com/KaburauNero)
+# [Felipe de Campos Oka RA: 22.121.001-6](https://github.com/KaburauNero)  (LIDER)
 
 ## Entregas
 
 
 [1. Definição de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Defini%C3%A7%C3%A3o-de-Projeto)
 
-# [2. Fase de Iniciação de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto) (LIDER)
+[2. Fase de Iniciação de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto)
 
 [3. Modelagem](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem)
