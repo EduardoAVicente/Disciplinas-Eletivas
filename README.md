@@ -18,3 +18,5 @@ CC7532 Grupo I:
 [2. Fase de Iniciação de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto)
 
 [3. Modelagem](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem)
+
+[3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem#as-is)
