@@ -8,7 +8,7 @@ CC7532 Grupo I:
 
 [Ana Jéssica Soares da Silva RA: 22.121.100-6](https://github.com/AnaJessicaSS)
 
-# [Felipe de Campos Oka RA: 22.121.001-6](https://github.com/KaburauNero)  (LIDER)
+[Felipe de Campos Oka RA: 22.121.001-6](https://github.com/KaburauNero)
 
 ## Entregas
 
