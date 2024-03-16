@@ -28,4 +28,6 @@ Grupo:
 
 [2.6. ](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
 
+[2.7. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
+
 **[3. Documentos](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos)**
