@@ -21,4 +21,4 @@ Grupo:
 
 [3.2. To Be]()
 
-[4. COnfigurações de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software)
+[4. Configurações de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software)
