@@ -30,7 +30,7 @@ Grupo:
 
 [2.5. Especificações de caso de uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#especifica%C3%A7%C3%B5es-de-caso-de-uso)
 
-[2.6. ](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
+[2.6. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
 
 **[3. Documentos](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos)**
 
