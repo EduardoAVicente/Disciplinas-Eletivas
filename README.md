@@ -20,3 +20,5 @@ Grupo:
 [3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem#as-is)
 
 [3.2. To Be]()
+
+[4. https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software]()
