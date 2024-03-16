@@ -31,3 +31,5 @@ Grupo:
 [2.7. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
 
 **[3. Documentos](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos)**
+
+[3.1. Plano de Gerenciamento de Configuração de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos#plano-de-gerenciamento-de-configura%C3%A7%C3%A3o-de-software)
