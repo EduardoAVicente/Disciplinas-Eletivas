@@ -19,6 +19,6 @@ Grupo:
 
 [3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem#as-is)
 
-[3.2. To Be]()
+[3.2. To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem#to-be)
 
 [4. Configurações de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software)
