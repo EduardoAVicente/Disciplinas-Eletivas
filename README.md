@@ -2,7 +2,7 @@
 
 ![EleMatch](https://github.com/EduardoAVicente/Disciplinas-Eletivas/assets/92233185/e4e0874e-a86e-4ef9-8a9d-52396d79b5f9)
 
-**Resumo: ** O objetivo do projeto de disciplinas eletivas é aprimorar o processo de seleção e aplicação de testes, visando personalizar o percurso curricular dos estudantes no âmbito do novo ensino médio brasileiro. Através da adoção de uma abordagem fundamentada em engenharia de software, busca-se assegurar uma experiência gratificante tanto para os alunos quanto para os professores, garantindo que as disciplinas eletivas recomendadas estejam em conformidade com as preferências individuais e características dos estudantes. Ver a configuração do git
+** Resumo: ** O objetivo do projeto de disciplinas eletivas é aprimorar o processo de seleção e aplicação de testes, visando personalizar o percurso curricular dos estudantes no âmbito do novo ensino médio brasileiro. Através da adoção de uma abordagem fundamentada em engenharia de software, busca-se assegurar uma experiência gratificante tanto para os alunos quanto para os professores, garantindo que as disciplinas eletivas recomendadas estejam em conformidade com as preferências individuais e características dos estudantes. Ver a configuração do git
 
 Grupo:
 
