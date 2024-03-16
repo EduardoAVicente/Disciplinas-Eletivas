@@ -13,7 +13,7 @@ Grupo:
 
 [1. Definição de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Defini%C3%A7%C3%A3o-de-Projeto)
 
-[2. Fase de Iniciação de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto)
+[2. Modelo Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto)
 
 [3. Modelagem](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem)
 
@@ -21,4 +21,4 @@ Grupo:
 
 [3.2. To Be]()
 
-[4. https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software]()
+[4. COnfigurações de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software)
