@@ -15,10 +15,10 @@ Grupo:
 
 [2. Modelo Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Fase-de-Inicia%C3%A7%C3%A3o-de-Projeto)
 
-[3. Modelagem](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem)
+[3. Modelo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo)
 
-[3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem#as-is)
+[3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#as-is)
 
-[3.2. To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelagem#to-be)
+[3.2. To Be](hhttps://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#to-be)
 
 [4. Configurações de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Configura%C3%A7%C3%B5es-de-Software)
