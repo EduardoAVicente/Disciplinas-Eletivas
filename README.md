@@ -20,7 +20,7 @@ Grupo:
 
 **[2. Modelo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo)**
 
-[2.1. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#canvas)
+[2.1. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#canvas)
 
 [2.2. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#as-is)
 
