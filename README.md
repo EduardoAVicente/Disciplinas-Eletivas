@@ -26,7 +26,7 @@ Grupo:
 
 [2.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#as-is)
 
-[2.2.To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#to-be)
+[2.2. To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#to-be)
 
 [2.3. Detalhamento de Tarefa](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#detalhamento-de-tarefa)
 
