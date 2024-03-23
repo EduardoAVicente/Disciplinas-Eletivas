@@ -18,21 +18,21 @@ Grupo:
 
 [1.1. Gestão de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#1-defini%C3%A7%C3%A3o-de-projeto)
 
+[1.2. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#canvas)
+
 **[2. Modelo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo)**
 
-[2.1. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#canvas)
+[2.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#as-is)
 
-[2.2. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#as-is)
+[2.2.To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#to-be)
 
-[2.3.To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#to-be)
+[2.3. Detalhamento de Tarefa](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#detalhamento-de-tarefa)
 
-[2.4. Detalhamento de Tarefa](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#detalhamento-de-tarefa)
+[2.4. Diagrama de Casos de Uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#diagrama-de-casos-de-uso)
 
-[2.5. Diagrama de Casos de Uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#diagrama-de-casos-de-uso)
+[2.5. Especificações de caso de uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#especifica%C3%A7%C3%B5es-de-caso-de-uso)
 
-[2.6. Especificações de caso de uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#especifica%C3%A7%C3%B5es-de-caso-de-uso)
-
-[2.7. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
+[2.6. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
 
 **[3. Documentos](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos)**
 
