@@ -18,7 +18,9 @@ Grupo:
 
 [1.1. Gestão de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#1-defini%C3%A7%C3%A3o-de-projeto)
 
-[1.2. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#canvas)
+[1.2. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#2-canvas)
+
+[1.3. Escopo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#3-escopo)
 
 **[2. Modelo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo)**
 
