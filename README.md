@@ -26,6 +26,8 @@ Grupo:
 
 ### [2.3. Escopo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.3.-Escopo)
 
+### [2.4. Estimativa do projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.4-Estimativas-do-projeto)
+
 ## **3. Modelo**
 
 ### [3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.1-As-Is)
@@ -41,5 +43,6 @@ Grupo:
 ### [3.6. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.6.-Requisitos-N%C3%A3o-Funcionais)
 
 ### [3.7. Operações Candidatas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.7.-Opera%C3%A7%C3%B5es-Candidatas)
+
 
 
