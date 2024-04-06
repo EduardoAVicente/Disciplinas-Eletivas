@@ -14,30 +14,32 @@ Grupo:
 
 ## Entregas
 
-**[1. Gestão de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto)**
+## **1. Documentos**
 
-[1.1. Gestão de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#1-defini%C3%A7%C3%A3o-de-projeto)
+### [1.1. Plano de Gerenciamento](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/1.1.-Plano-de-Gerenciamento)
 
-[1.2. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#2-canvas)
+## **2. Gestão de Projeto**
 
-[1.3. Escopo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Gest%C3%A3o-de-Projeto#3-escopo)
+### [2.1. Definição de Projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.1.-Defini%C3%A7%C3%A3o-de-Projeto)
 
-**[2. Modelo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo)**
+### [2.2. Canvas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.2.-Canvas)
 
-[2.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#as-is)
+### [2.3. Escopo](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.3.-Escopo)
 
-[2.2. To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#to-be)
+## **3. Modelo**
 
-[2.3. Detalhamento de Tarefa](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#detalhamento-de-tarefa)
+### [3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.1-As-Is)
 
-[2.4. Diagrama de Casos de Uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#diagrama-de-casos-de-uso)
+### [3.2. To Be](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.2.-To-be)
 
-[2.5. Especificações de caso de uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#especifica%C3%A7%C3%B5es-de-caso-de-uso)
+### [3.3. Detalhamento de Tarefa](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.3.-Detalhamento-das-Tarefas)
 
-[2.6. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#requisitos-n%C3%A3o-funcionais)
+### [3.4. Diagrama de Casos de Uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.4.-Diagrama-de-Casos-de-Uso)
 
-[2.7. Operações Candidatas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Modelo#opera%C3%A7%C3%B5es-candidatas)
+### [3.5. Especificações de casos de uso](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.5.-Especifica%C3%A7%C3%B5es-de-casos-de-uso)
 
-**[3. Documentos](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos)**
+### [3.6. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.6.-Requisitos-N%C3%A3o-Funcionais)
 
-[3.1. Plano de Gerenciamento de Configuração de Software](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/Documentos#plano-de-gerenciamento-de-configura%C3%A7%C3%A3o-de-software)
+### [3.7. Operações Candidatas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.7.-Opera%C3%A7%C3%B5es-Candidatas)
+
+
