@@ -28,6 +28,8 @@ Grupo:
 
 ### [2.4. Estimativa do projeto](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.4-Estimativas-do-projeto)
 
+### [2.5. Avaliação de Riscos](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/2.5.-Avalia%C3%A7%C3%A3o-de-Riscos)
+
 ## **3. Modelo**
 
 ### [3.1. As Is](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.1-As-Is)
@@ -42,7 +44,6 @@ Grupo:
 
 ### [3.6. Requisitos Não Funcionais](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.6.-Requisitos-N%C3%A3o-Funcionais)
 
-### [3.7. Operações Candidatas](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.7.-Opera%C3%A7%C3%B5es-Candidatas)
-
+### [3.7. Serviços](https://github.com/EduardoAVicente/Disciplinas-Eletivas/wiki/3.7.-Servi%C3%A7os)
 
 
